@@ -5,6 +5,6 @@
 'use strict';
 
 var APP_LINK_MAP = {
-  'ios': 'https://itunes.apple.com/cn/app/he-hua-qin-zi-jie-jue-ma-ma/id910080489?l=en&mt=8',
-  'android': 'http://www.hehuababy.com/android'
+  'ios': 'https://itunes.apple.com/us/app/you-hong-bao-da-che-chu-xing/id1029333916?l=zh&ls=1&mt=8',
+  'android': 'http://fir.im/youhongbao'
 };

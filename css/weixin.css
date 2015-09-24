@@ -1,0 +1,27 @@
+/**
+ * Weixin overlay style
+ * Author: LiuQian <112486391@qq.com>
+ */
+
+.wx-overlay {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	max-width: 1024px;
+	padding-right: 10px;
+	color: #fff;
+	text-align: right;
+	background-color: rgba(0,0,0,.7);
+	visibility: hidden;
+}
+
+.wx-overlay.-active {
+	visibility: visible;
+}
+
+.wx-overlay > img {
+	width: 34px;
+	margin-bottom: 10px;
+}
